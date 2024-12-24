@@ -1,0 +1,11 @@
+C:\mester\Session02OOP\Commen03\bin\Debug\net8.0\Commen03.deps.json
+C:\mester\Session02OOP\Commen03\bin\Debug\net8.0\Commen03.dll
+C:\mester\Session02OOP\Commen03\bin\Debug\net8.0\Commen03.pdb
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\Commen03.GeneratedMSBuildEditorConfig.editorconfig
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\Commen03.AssemblyInfoInputs.cache
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\Commen03.AssemblyInfo.cs
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\Commen03.csproj.CoreCompileInputs.cache
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\Commen03.dll
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\refint\Commen03.dll
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\Commen03.pdb
+C:\mester\Session02OOP\Commen03\obj\Debug\net8.0\ref\Commen03.dll

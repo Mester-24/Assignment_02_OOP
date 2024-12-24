@@ -1,0 +1,14 @@
+C:\mester\Session02OOP\Assignment_02_oop\bin\Debug\net8.0\Assignment_02_oop.exe
+C:\mester\Session02OOP\Assignment_02_oop\bin\Debug\net8.0\Assignment_02_oop.deps.json
+C:\mester\Session02OOP\Assignment_02_oop\bin\Debug\net8.0\Assignment_02_oop.runtimeconfig.json
+C:\mester\Session02OOP\Assignment_02_oop\bin\Debug\net8.0\Assignment_02_oop.dll
+C:\mester\Session02OOP\Assignment_02_oop\bin\Debug\net8.0\Assignment_02_oop.pdb
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.AssemblyInfoInputs.cache
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.AssemblyInfo.cs
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.csproj.CoreCompileInputs.cache
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.dll
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\refint\Assignment_02_oop.dll
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.pdb
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\Assignment_02_oop.genruntimeconfig.cache
+C:\mester\Session02OOP\Assignment_02_oop\obj\Debug\net8.0\ref\Assignment_02_oop.dll

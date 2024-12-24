@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mester\\Session02OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|c:\\mester\\session02oop\\assignment_02_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|solutionrelative:assignment_02_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|c:\\mester\\session02oop\\assignment_02_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|solutionrelative:assignment_02_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|c:\\mester\\session02oop\\assignment_02_oop\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|solutionrelative:assignment_02_oop\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|c:\\mester\\session02oop\\assignment_02_oop\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9E71F-83DC-48C0-BF7F-9AD67749B5C9}|Assignment_02_oop\\Assignment_02_oop.csproj|solutionrelative:assignment_02_oop\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityLevel.cs",
+              "DocumentMoniker": "C:\\mester\\Session02OOP\\Assignment_02_oop\\SecurityLevel.cs",
+              "RelativeDocumentMoniker": "Assignment_02_oop\\SecurityLevel.cs",
+              "ToolTip": "C:\\mester\\Session02OOP\\Assignment_02_oop\\SecurityLevel.cs",
+              "RelativeToolTip": "Assignment_02_oop\\SecurityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:21:35.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "C:\\mester\\Session02OOP\\Assignment_02_oop\\HiringDate.cs",
+              "RelativeDocumentMoniker": "Assignment_02_oop\\HiringDate.cs",
+              "ToolTip": "C:\\mester\\Session02OOP\\Assignment_02_oop\\HiringDate.cs",
+              "RelativeToolTip": "Assignment_02_oop\\HiringDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:17:09.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\mester\\Session02OOP\\Assignment_02_oop\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment_02_oop\\Employee.cs",
+              "ToolTip": "C:\\mester\\Session02OOP\\Assignment_02_oop\\Employee.cs",
+              "RelativeToolTip": "Assignment_02_oop\\Employee.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:15:30.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mester\\Session02OOP\\Assignment_02_oop\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_02_oop\\Program.cs",
+              "ToolTip": "C:\\mester\\Session02OOP\\Assignment_02_oop\\Program.cs",
+              "RelativeToolTip": "Assignment_02_oop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:13:53.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
